@@ -29,5 +29,31 @@ Se você está procurando um desenvolvedor full-stack para ajudar a impulsionar 
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5531991953568" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?1=pt_BR&phone=5531991953568"/></a>
 
+  
+  <h1>João Vitor</h1>
+  <h2>Desenvolvedor Full Stack</h2>
+  
+  <h3>Resumo:</h3>
+  <p>Eu sou um desenvolvedor full-stack formado na Kenzie Academy Brasil. Possuo habilidades em diversas tecnologias, incluindo React, React Native, Node.js, Python, MongoDB, PostgreSQL, HTML e CSS. Falo inglês em um nível intermediário.</p>
+
+  <h3>Habilidades Técnicas:</h3>
+  <ul>
+    <li>React</li>
+    <li>React Native</li>
+    <li>Node.js</li>
+    <li>Python</li>
+    <li>MongoDB</li>
+    <li>PostgreSQL</li>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+
+  <h3>Contato:</h3>
+  <p>Email: joaovitor@exemplo.com</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/joaovitor/">https://www.linkedin.com/in/joaovitor/</a></p>
+  
 </p>  
+
+
+
 
