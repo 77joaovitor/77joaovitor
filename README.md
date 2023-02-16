@@ -4,8 +4,6 @@
 <p align="left">
 <strong>Desenvolvedor full-stack formado na Kenzie Academy Brasil. Possuo habilidades em diversas tecnologias, incluindo React, React Native, Node.js, Python, MongoDB, PostgreSQL, HTML e CSS.
 
-Eu também sou formado em Produção Fonográfica e amo música. Meus estudos nessa área me proporcionaram uma perspectiva única em relação ao desenvolvimento de aplicativos e interfaces de usuário, especialmente no que se refere à usabilidade e experiência do usuário.
-
 Falo inglês em um nível intermediário, o que me permite me comunicar com eficácia em projetos internacionais. Além disso, estou sempre buscando aprender novas tecnologias e habilidades para me manter atualizado no mundo em constante evolução da tecnologia.
 
 Se você está procurando um desenvolvedor full-stack para ajudar a impulsionar seus projetos, sinta-se à vontade para entrar em contato comigo. Estou animado para trabalhar em novos projetos e contribuir com minhas habilidades e conhecimentos para o sucesso da sua empresa.</strong>
