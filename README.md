@@ -14,7 +14,7 @@ Desenvolvedor Web Full-Stack, pela Kenzie Academy Brasil, formado em Produção 
 </p>
 
 <p align="left">
-  <a href="mailto:henrique.joaovitor@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:henrique.joaovitor@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/joaovitorhenrique/" alt="Linkedin" target="_blank">
