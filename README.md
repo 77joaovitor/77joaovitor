@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Desenvolvedor Web Full-Stack, pela Kenzie Academy Brasil, formado em Produção Fonográfica na Estácio de Sá, com domínio em inglês intermediário. Possuo sólido conhecimento em: JavaScript | HTML | CSS | ReactJS | TypeScript | NodeJS | Express | PostgreSQL |Python | Django | MongoDB | SocketIO | ReactNative | SCRUM | Docker.
+Desenvolvedor Web Full-Stack, pela Kenzie Academy Brasil, formado em Produção Fonográfica na Estácio de Sá, com domínio em inglês intermediário.
 </p>
 
 <p align="left">
